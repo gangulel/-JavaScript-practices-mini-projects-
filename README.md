@@ -1,1 +1,1 @@
-# -JavaScript-practices-mini-projects-
+# JavaScript-practices-mini-projects
